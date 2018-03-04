@@ -1,0 +1,2 @@
+# MyServerMini
+这是我基于python底层和socket编程自底向上写的一个小服务器，支持基本的路由解析、request和response报文解析、用户的CURD操作，基于文件实现了最简单的ORM
